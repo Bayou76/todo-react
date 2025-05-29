@@ -47,10 +47,10 @@ src/
 
 ## 🛠 Technologies utilisées
 
-React (hooks fonctionnels)
-Tailwind CSS pour le design
-Framer Motion pour les animations
-localStorage pour la persistance des données
+- React (hooks fonctionnels)
+- Tailwind CSS pour le design
+- Framer Motion pour les animations
+- localStorage pour la persistance des données
 
 ---
 
@@ -59,11 +59,11 @@ localStorage pour la persistance des données
 Les contributions sont les bienvenues !
 Pour contribuer, merci de :
 
-Forker le projet
-Créer une branche feature (git checkout -b feature/ma-fonctionnalite)
-Committer vos changements (git commit -m "Ajout d'une fonctionnalité")
-Pousser votre branche (git push origin feature/ma-fonctionnalite)
-Ouvrir une Pull Request
+1. Forker le projet
+2. Créer une branche feature (git checkout -b feature/ma-fonctionnalite)
+3. Committer vos changements (git commit -m "Ajout d'une fonctionnalité")
+4. Pousser votre branche (git push origin feature/ma-fonctionnalite)
+5. Ouvrir une Pull Request
 
 ---
 
