@@ -43,12 +43,16 @@ src/
 └── styles.css            # Styles globaux avec Tailwind CSS
 ```
 
+---
+
 ## 🛠 Technologies utilisées
 
 React (hooks fonctionnels)
 Tailwind CSS pour le design
 Framer Motion pour les animations
 localStorage pour la persistance des données
+
+---
 
 ### 🤝 Contribution
 
@@ -60,6 +64,8 @@ Créer une branche feature (git checkout -b feature/ma-fonctionnalite)
 Committer vos changements (git commit -m "Ajout d'une fonctionnalité")
 Pousser votre branche (git push origin feature/ma-fonctionnalite)
 Ouvrir une Pull Request
+
+---
 
 #### 📄 Licence
 
